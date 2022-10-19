@@ -1,4 +1,4 @@
-#Bitcoin price trend prediction using Twitter sentiment analysis.
+# Bitcoin price trend prediction using Twitter sentiment analysis.
 
 # Input data 
 Bitcoin Prices https://uk.finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD
